@@ -1,0 +1,9 @@
+Model Accuracy Summary
+=======================
+LightGBM             - 0.898081
+Gradient Boosting    - 0.897270
+Random Forest        - 0.895918
+Logistic Regression  - 0.880508
+KNN                  - 0.869424
+Decision Tree        - 0.855637
+KMeans Clustering    - 0.730000
