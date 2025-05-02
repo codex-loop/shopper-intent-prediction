@@ -44,7 +44,7 @@ online-shoppers-intention/
 |----------------------|----------------|
 | LightGBM             | 0.898081       |
 | Gradient Boosting    | 0.897270       |
-| Random Forest        | 0.896999       |
+| Random Forest        | 0.895918       |
 | Logistic Regression  | 0.880508       |
 | K-Nearest Neighbors  | 0.869424       |
 | Decision Tree        | 0.855637       |
