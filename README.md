@@ -43,12 +43,12 @@ online-shoppers-intention/
 | Model                 | Accuracy Score |
 |----------------------|----------------|
 | LightGBM             | 0.898081       |
-| Random Forest        | 0.898081       |
 | Gradient Boosting    | 0.897270       |
+| Random Forest        | 0.896999       |
 | Logistic Regression  | 0.880508       |
 | K-Nearest Neighbors  | 0.869424       |
 | Decision Tree        | 0.855637       |
-| KMeans Clustering    | 0.730000 (Silhouette) |
+| KMeans Clustering    | 0.730000       |
 
 ---
 
@@ -59,7 +59,7 @@ online-shoppers-intention/
 - Recall
 - F1-Score
 - Confusion Matrix
-- Silhouette Score (for clustering)
+- Accuracy Score (for clustering)
 
 ---
 ## Install dependencies
